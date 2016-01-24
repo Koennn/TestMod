@@ -7,5 +7,6 @@ public class MagicWand extends ItemTest {
     public MagicWand() {
         super();
         this.setUnlocalizedName(ItemReference.MAGIC_WAND_NAME);
+        this.setTextureName(ItemReference.MAGIC_WAND_NAME);
     }
 }
